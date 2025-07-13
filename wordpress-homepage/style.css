@@ -1,0 +1,10 @@
+/*
+Theme Name: WordPress Homepage
+Author: Manish Raj
+Description: Custom theme built from scratch based on Figma design.
+Version: 1.0
+*/
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
